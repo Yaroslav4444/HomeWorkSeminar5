@@ -1,0 +1,15 @@
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\bin\Debug\net6.0\task_36.exe
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\bin\Debug\net6.0\task_36.deps.json
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\bin\Debug\net6.0\task_36.runtimeconfig.json
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\bin\Debug\net6.0\task_36.dll
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\bin\Debug\net6.0\task_36.pdb
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.csproj.AssemblyReference.cache
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.AssemblyInfoInputs.cache
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.AssemblyInfo.cs
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.csproj.CoreCompileInputs.cache
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.dll
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\refint\task_36.dll
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.pdb
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\task_36.genruntimeconfig.cache
+C:\Users\perec_000\Desktop\HomeWorkSeminar5\task_36\obj\Debug\net6.0\ref\task_36.dll
